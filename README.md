@@ -1,6 +1,6 @@
 neotracker
 
-an application that tracks and monitors guild activity. check out the live site here!
+an application that tracks and monitors guild activity. check out the live site https://neotracker.herokuapp.com/!
 
 guest credentials
 username: guest
