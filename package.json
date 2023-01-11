@@ -40,7 +40,7 @@
     "jsdom": "^4.0.5",
     "jsdom-global": "^3.0.2",
     "json-stringify-safe": "^5.0.1",
-    "knex": "^0.14.2",
+    "knex": "^2.4.0",
     "md5": "^2.2.1",
     "method-override": "^2.3.10",
     "moment": "^2.20.1",
